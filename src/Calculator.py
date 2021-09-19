@@ -11,6 +11,6 @@ class Calculator:
 
 
 if __name__ == '__main__':
-    calc = Calculator(4, 5)
+    calc = Calculator(4, 6)
     print(calc.add())
     print(calc.sub())
