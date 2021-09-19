@@ -1,7 +1,7 @@
 import sys
 
 
-from src.Calculator import Calculator
+from ..src.Calculator import Calculator 
 import unittest
 
 
